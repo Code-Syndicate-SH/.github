@@ -33,12 +33,12 @@ Plus, as students, this project is a chance to dive into lots of tech — from s
 
 | #  | Name                 | Role                         | Student Number |
 |----|----------------------|------------------------------|----------------|
-| 1  | Shravan Ramjathan    | Project Manager / Backend Dev | ST10247982     |
+| 1  | Shravan Ramjathan    | Project Manager / Fullstack Developer | ST10247982     |
 | 2  | Shivar Tuplah        | Backend Developer             | ST10256115     |
-| 3  | Vidur Girish Somaru  | Front End Developer           | ST10263794     |
-| 4  | Keagen Shaw          | Product Manager               | ST10067958     |
-| 5  | Shaymen Kista        | Documentation Lead            | ST10312252     |
-| 6  | Paayal Rakesh        | Research Business Analyst     | ST10368727     |
+| 3  | Vidur Girish Somaru  | Frontend Assist           | ST10263794     |
+| 4  | Keagen Shaw          | Product Manager and Frontend Developer               | ST10067958     |
+| 5  | Shaymen Kista        | Documentation Assist            | ST10312252     |
+| 6  | Paayal Rakesh        | Research Business Analyst and Documentation Lead     | ST10368727     |
 | 7  | Ahmed Vally          | Hardware Engineer             | ST10251131     |
 
 *Note:* Everyone chips in beyond their role when needed — for example, Shravan (backend) jumps into frontend or documentation whenever the team needs a hand! 🤝
