@@ -38,7 +38,7 @@ Plus, as students, this project is a chance to dive into lots of tech — from s
 | 3  | Vidur Girish Somaru  | Frontend Assist           | ST10263794     |
 | 4  | Keagen Shaw          | Product Manager and Frontend Developer               | ST10067958     |
 | 5  | Shaymen Kista        | Documentation Assist            | ST10312252     |
-| 6  | Paayal Rakesh        | Research Business Analyst and Documentation Lead     | ST10368727     |
+| 6  | Paayal Rakesh        | Research Developer and Documentation Lead     | ST10368727     |
 | 7  | Ahmed Vally          | Hardware Engineer             | ST10251131     |
 
 *Note:* Everyone chips in beyond their role when needed — for example, Shravan (backend) jumps into frontend or documentation whenever the team needs a hand! 🤝
