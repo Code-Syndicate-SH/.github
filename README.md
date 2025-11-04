@@ -52,4 +52,23 @@ Plus, as students, this project is a chance to dive into lots of tech — from s
 
 ---
 
+# Code-Syndicate-SH Public Repositories
+
+## Hardware
+- [Fodder-Arduino](https://github.com/Code-Syndicate-SH/Fodder-Arduino)
+- [Veg-Arduino](https://github.com/Code-Syndicate-SH/Veg-Arduino)
+- [Smart-Roots-Camera](https://github.com/Code-Syndicate-SH/Smart-Roots-Camera)
+
+## Software (Apps and Web)
+- [Smart-Roots-App](https://github.com/Code-Syndicate-SH/Smart-Roots-App)
+- [Smart-Roots-Connect](https://github.com/Code-Syndicate-SH/Smart-Roots-Connect)
+- [Smart-Roots-Server](https://github.com/Code-Syndicate-SH/Smart-Roots-Server)
+
+## Documentation
+- [Documentation](https://github.com/Code-Syndicate-SH/Documentation)
+
+## Research
+- [Research](https://github.com/Code-Syndicate-SH/Research)
+
+  --- 
 Thanks for checking out **Smart Roots** — let’s grow smarter, together! 🌱✨
